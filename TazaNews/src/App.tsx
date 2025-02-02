@@ -1,7 +1,4 @@
-import ListGroup from "./components/ListGroup";
-
-function App(){
-  return <div><ListGroup></ListGroup></div>
-}
+import Header from "./Header.jsx";
+function App() {}
 
 export default App;
